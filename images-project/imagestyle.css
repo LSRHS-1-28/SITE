@@ -29,17 +29,8 @@ nav{
   margin: 0;
   padding: 1em;
 }
-a:active{
-  color: black;
-  background-color: black;
-}
-
-a:link, a:visited{
+.topnav a{
   background-color: red;
-  color: white;
-  padding: 14px 25px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-
+  border: solid 3px black;
+float: none;
 }
