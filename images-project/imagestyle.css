@@ -1,6 +1,7 @@
 body{
   background-color: #1B96AF;
 }
+
 td{
   width: 400px;
   height: 200px;
@@ -33,4 +34,9 @@ nav{
   background-color: red;
   border: solid 3px black;
 float: none;
+}
+h3.imagetitle{
+  text-align: center;
+  border: solid 5px black;
+  padding: 10px;
 }
