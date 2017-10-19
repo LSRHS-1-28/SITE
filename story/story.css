@@ -1,7 +1,12 @@
+
+
 p{
 font-family: 'Poiret One', cursive;
 font-size: 50px;
 color: #FA7D00;
+border: 5px skyblue solid;
+text-align: center;
+padding: 10px 10px;
 }
 h2{
 font-family: 'Poiret One', cursive;
