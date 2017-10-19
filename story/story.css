@@ -1,25 +1,50 @@
 p{
 font-family: 'Poiret One', cursive;
 font-size: 50px;
+color: #FA7D00;
 }
 h2{
 font-family: 'Poiret One', cursive;
 text-align: center;
 color: white;
 }
-body{
-  background-color: maroon;
+p{
+
+  text-shadow: 5px 4px black;
+  text-transform: capitalize;
 }
-table{
-  border: solid 10px black;
+body{
+    background-color: maroon;
+    overflow: visible;
+    margin: auto;
+}
+
+
+td{
+  border: solid 5px black;
   padding: 5px;
 }
+
 a{
-  background-color: white;
+  background-color: #FA7D00;
   color: black;
   padding: 14px 25px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
+  text-transform: capitalize;
 
+}
+
+a:hover{
+  background-color: white;
+  color:black;
+
+}
+img{
+  width: 600px;
+  height: 600px;
+}
+td{
+  width: 600px;
 }
