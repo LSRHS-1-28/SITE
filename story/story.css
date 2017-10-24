@@ -15,8 +15,9 @@ color: white;
 }
 p{
 
-  text-shadow: 5px 4px black;
+  text-shadow: 5px 5px 2px black;
   text-transform: capitalize;
+
 }
 body{
     background-color: maroon;
@@ -27,7 +28,7 @@ body{
 
 td{
   border: solid 5px black;
-  padding: 5px;
+  padding: 10px;
 }
 
 a{
