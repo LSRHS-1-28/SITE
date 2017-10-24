@@ -53,3 +53,7 @@ img{
 td{
   width: 600px;
 }
+
+#talk{
+  display: none;
+}
