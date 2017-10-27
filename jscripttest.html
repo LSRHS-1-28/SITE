@@ -1,0 +1,31 @@
+<html>
+<head>
+<link rel="stylesheet" href="jscript.css">
+</head>
+<script type="text/javascript">
+  function fight(){
+    var a = Math.random()
+    if (a < 0.7){
+      location.href="index.html"
+    }
+    else{
+      location.href="story/index.html"
+    }
+
+
+  }
+
+  function talk(){
+    document.getElementById('talk').style.display = "block"
+  }
+</script>
+
+<body>
+<p>Hey Test Test Test</p>
+<a href="#" onclick=fight()>Fight</a>
+<a href="#" onclick=talk()>Talk To Da Bear</a>
+
+<div id="talk"><p>Talk to the bear? really? bears dont talk. Run Or Fight.</p></div>
+</body>
+
+</html>
