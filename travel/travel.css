@@ -1,0 +1,116 @@
+#header{
+background-color: black;
+text-align: center;
+width: 100%;
+height: 75px;
+padding: 10px;
+margin: 5px;
+}
+#header h2{
+  color: white;
+
+}
+
+#nav a{
+  background-color: black;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  width: 100%;
+
+}
+#images img{
+  width: 50%;
+  height: 300px;
+  float: left;
+
+
+}
+#p {
+  text-align: center;
+  margin: 5px;
+  border: solid 5px black;
+  clear: both;
+  font-size: 18pt;
+  padding: 5px;
+}
+body{
+  font-family: 'Montserrat', sans-serif;
+
+}
+#img2 img{
+  width: 50%;
+  height: 300px;
+  float: left;
+
+}
+#lodging p{
+  font-size: 18pt;
+  text-align: center;
+  margin: 5px;
+  border: solid 5px black;
+  clear: both;
+  padding: 5px;
+}
+#img3 img{
+  width: 50%;
+  height: 300px;
+  float: left;
+
+}
+#att{
+  font-size: 18pt;
+  text-align: center;
+  border: 5px solid black;
+  clear: both;
+}
+
+
+
+#dir iframe{
+  width: 50%;
+  height: 300px;
+  float: left;
+}
+
+#dirimg img{
+  width: 50%;
+  height: 300px;
+  float: left;
+}
+#expedia iframe{
+float: left;
+height: 300px;
+width: 50%;
+
+}
+#timg img {
+  width: 50%;
+  height: 300px;
+  float: left;
+}
+#tests li{
+  font-size: 20pt;
+  text-shadow: 3px 5px 3px gray;
+
+}
+#tests{
+  text-align: center;
+  margin: 5px;
+  border: solid 5px black;
+  clear: both;
+  font-size: 18pt;
+  padding: 5px;
+}
+#footer{
+  background-color: black;
+  height:50px;
+
+
+}
+#footer h4{
+  color: white;
+  text-align: center;
+}
