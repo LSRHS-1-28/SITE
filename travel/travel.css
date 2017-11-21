@@ -11,6 +11,7 @@ margin: 5px;
 
 }
 
+
 #nav a{
   background-color: black;
   color: white;
@@ -30,7 +31,7 @@ margin: 5px;
 }
 #p {
   text-align: center;
-  margin: 5px;
+  margin: 1px;
   border: solid 5px black;
   clear: both;
   font-size: 18pt;
